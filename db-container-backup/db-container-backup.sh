@@ -3,8 +3,8 @@
 # DB Container Backup Script Template
 # ---
 # This backup script can be used to automatically backup databases in docker containers.
-# It currently supports mariadb, mysql and bitwardenrs containers.
-# 
+# It currently supports MariaDB, MySQL and BitwardenRS containers.
+
 
 DAYS=2
 BACKUPDIR=/home/xcad/backup
